@@ -8,6 +8,6 @@ namespace Villa.Entity.Entities
 {
 	public class Video : BaseEntity
 	{
-        public string VideUrl { get; set; }
+        public string VideoUrl { get; set; }
     }
 }
